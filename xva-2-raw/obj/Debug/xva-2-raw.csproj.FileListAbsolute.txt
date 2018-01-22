@@ -1,0 +1,5 @@
+C:\Users\Zorg\Documents\Visual Studio 2008\Projects\xva-2-raw\xva-2-raw\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zorg\Documents\Visual Studio 2008\Projects\xva-2-raw\xva-2-raw\bin\Debug\xva-2-raw.exe
+C:\Users\Zorg\Documents\Visual Studio 2008\Projects\xva-2-raw\xva-2-raw\bin\Debug\xva-2-raw.pdb
+C:\Users\Zorg\Documents\Visual Studio 2008\Projects\xva-2-raw\xva-2-raw\obj\Debug\xva-2-raw.exe
+C:\Users\Zorg\Documents\Visual Studio 2008\Projects\xva-2-raw\xva-2-raw\obj\Debug\xva-2-raw.pdb
